@@ -53,14 +53,6 @@ Segment mall customers into distinct groups based on their annual income and spe
 - The **Elbow Method** helps select the right number of clusters (K)
 - The **Silhouette Score** measures how well each point fits into its cluster
 
----
-
-## 📂 Files Included
-- `Task8.ipynb` – Complete notebook with code and visuals
-- `Mall_Customers.csv` – Dataset used
-- `README.md` – Task explanation and results
-
----
 
 ## 📝 Submission
 This project was completed as part of the **AI & ML Internship**  
